@@ -8,8 +8,9 @@ This program uses Jupyter, Pygame, and Python to run the simulation
 
 <h1>How to Run</h1>
 
-<ol>
-  <list>Download the raw files into an organized location in your files</list>
-  <list>Open "Terminal" on MacOS or Windows</list>
-  <list></list>
-</ol>
+1. Ensure you have python and jupyter downloaded
+2. Download the raw files into an organized location in your files
+3. Open "Terminal" on MacOS or Windows
+4. Find the directory of the file
+5. Type "jupyter notebook" into the terminal window
+6. Select the jupyter file when the tab opens
